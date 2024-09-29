@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EwilPanda
 - 👀 I’m interested in a lot of things, all related to IT, Retrogaming, films and music
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently improving myself in html, css and python (flask) 
 - 💞️ I’m looking to collaborate on any project that's fun
 - 📫 How to reach me : via discord "ewilispanda"
 - 😄 Pronouns: they/them
